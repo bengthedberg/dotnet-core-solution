@@ -28,4 +28,4 @@ Check NuGet Dependencies
 
 ## General Information 
 
-[Build Scripts and Tools](../doc/BuildConfig.md)
+[Build Scripts and Tools](./BuildConfig.md)
